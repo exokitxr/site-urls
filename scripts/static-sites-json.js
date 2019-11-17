@@ -6,7 +6,6 @@ const http = require('http');
 const https = require('https');
 
 const fetch = require('window-fetch');
-const imageSize = require('image-size');
 const sharp = require('sharp');
 
 const SIZE = 192;
