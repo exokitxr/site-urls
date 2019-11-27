@@ -6,7 +6,32 @@
   },
   {
     "label": "Solar System",
-    "url": "https://rawcdn.githack.com/exokitxr/webxr-samples/8a13dcbb22fa52feadfab7b7f41f85bdb3601a3f/xr-presentation.html",
+    "url": "https://rawcdn.githack.com/exokitxr/webxr-samples/a3c6567777f44bd9cb839d039ef7d527f3af2a62/immersive-vr-session.html",
+    "icon": "https://immersive-web.github.io/webxr-samples/favicon-96x96.png"
+  },
+  {
+    "label": "Room Scale",
+    "url": "https://rawcdn.githack.com/exokitxr/webxr-samples/a3c6567777f44bd9cb839d039ef7d527f3af2a62/room-scale.html",
+    "icon": "https://immersive-web.github.io/webxr-samples/favicon-96x96.png"
+  },
+  {
+    "label": "Input Tracking",
+    "url": "https://rawcdn.githack.com/exokitxr/webxr-samples/a3c6567777f44bd9cb839d039ef7d527f3af2a62/input-tracking.html",
+    "icon": "https://immersive-web.github.io/webxr-samples/favicon-96x96.png"
+  },
+  {
+    "label": "Input Selection",
+    "url": "https://rawcdn.githack.com/exokitxr/webxr-samples/a3c6567777f44bd9cb839d039ef7d527f3af2a62/input-selection.html",
+    "icon": "https://immersive-web.github.io/webxr-samples/favicon-96x96.png"
+  },
+  {
+    "label": "Stereo Video",
+    "url": "https://rawcdn.githack.com/exokitxr/webxr-samples/a3c6567777f44bd9cb839d039ef7d527f3af2a62/stereo-video.html",
+    "icon": "https://immersive-web.github.io/webxr-samples/favicon-96x96.png"
+  },
+  {
+    "label": "Positional Audio",
+    "url": "https://rawcdn.githack.com/exokitxr/webxr-samples/a3c6567777f44bd9cb839d039ef7d527f3af2a62/positional-audio.html",
     "icon": "https://immersive-web.github.io/webxr-samples/favicon-96x96.png"
   },
   {
