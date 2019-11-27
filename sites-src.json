@@ -10,31 +10,6 @@
     "icon": "https://immersive-web.github.io/webxr-samples/favicon-96x96.png"
   },
   {
-    "label": "Room Scale",
-    "url": "https://rawcdn.githack.com/exokitxr/webxr-samples/a3c6567777f44bd9cb839d039ef7d527f3af2a62/room-scale.html",
-    "icon": "https://immersive-web.github.io/webxr-samples/favicon-96x96.png"
-  },
-  {
-    "label": "Input Tracking",
-    "url": "https://rawcdn.githack.com/exokitxr/webxr-samples/a3c6567777f44bd9cb839d039ef7d527f3af2a62/input-tracking.html",
-    "icon": "https://immersive-web.github.io/webxr-samples/favicon-96x96.png"
-  },
-  {
-    "label": "Input Selection",
-    "url": "https://rawcdn.githack.com/exokitxr/webxr-samples/a3c6567777f44bd9cb839d039ef7d527f3af2a62/input-selection.html",
-    "icon": "https://immersive-web.github.io/webxr-samples/favicon-96x96.png"
-  },
-  {
-    "label": "Stereo Video",
-    "url": "https://rawcdn.githack.com/exokitxr/webxr-samples/a3c6567777f44bd9cb839d039ef7d527f3af2a62/stereo-video.html",
-    "icon": "https://immersive-web.github.io/webxr-samples/favicon-96x96.png"
-  },
-  {
-    "label": "Positional Audio",
-    "url": "https://rawcdn.githack.com/exokitxr/webxr-samples/a3c6567777f44bd9cb839d039ef7d527f3af2a62/positional-audio.html",
-    "icon": "https://immersive-web.github.io/webxr-samples/favicon-96x96.png"
-  },
-  {
     "label": "Moon Rider",
     "description": "Surf the musical road among the stars, moon, and lights.",
     "url": "https://moonrider.xyz",
@@ -88,6 +63,31 @@
     "description": "Stand from the trainer's stand at the Pokemon Stadium with Pikachu against Charizard.",
     "url": "https://supermedium.com/superframe/scenes/pokemon/",
     "icon": "https://supermedium.com/superassets/site/pokemon.jpg"
+  },
+  {
+    "label": "Room Scale",
+    "url": "https://rawcdn.githack.com/exokitxr/webxr-samples/a3c6567777f44bd9cb839d039ef7d527f3af2a62/room-scale.html",
+    "icon": "https://immersive-web.github.io/webxr-samples/favicon-96x96.png"
+  },
+  {
+    "label": "Input Tracking",
+    "url": "https://rawcdn.githack.com/exokitxr/webxr-samples/a3c6567777f44bd9cb839d039ef7d527f3af2a62/input-tracking.html",
+    "icon": "https://immersive-web.github.io/webxr-samples/favicon-96x96.png"
+  },
+  {
+    "label": "Input Selection",
+    "url": "https://rawcdn.githack.com/exokitxr/webxr-samples/a3c6567777f44bd9cb839d039ef7d527f3af2a62/input-selection.html",
+    "icon": "https://immersive-web.github.io/webxr-samples/favicon-96x96.png"
+  },
+  {
+    "label": "Stereo Video",
+    "url": "https://rawcdn.githack.com/exokitxr/webxr-samples/a3c6567777f44bd9cb839d039ef7d527f3af2a62/stereo-video.html",
+    "icon": "https://immersive-web.github.io/webxr-samples/favicon-96x96.png"
+  },
+  {
+    "label": "Positional Audio",
+    "url": "https://rawcdn.githack.com/exokitxr/webxr-samples/a3c6567777f44bd9cb839d039ef7d527f3af2a62/positional-audio.html",
+    "icon": "https://immersive-web.github.io/webxr-samples/favicon-96x96.png"
   },
   {
     "label": "Origami Simulator",
